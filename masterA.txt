@@ -1,2 +1,6 @@
 hello a
+<<<<<<< HEAD
 thay doi o master
+=======
+thay doi o branch beta
+>>>>>>> beta
